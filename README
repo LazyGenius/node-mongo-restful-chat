@@ -1,0 +1,10 @@
+node-mongo-restful-chat
+
+This is a very quick and simple "proof of concept" chat server written in nodejs, utilizing a MongoDB message storage backend. It utilizes a RESTful API and was done as a quick "how easy is nodejs to use, and how does it perform?" test.
+
+| Dependencies
+    "express": "2.5.8",
+    "mongodb": "0.9.9"
+
+| Version
+- 0.1
